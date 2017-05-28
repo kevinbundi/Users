@@ -1,0 +1,11 @@
+thead{
+	border:2px solid black;
+
+}
+	thead td{
+		border:2px solid gray;
+		font-weight: 1px;
+	}
+	tbody td{
+		border: 1px solid black;
+	}
